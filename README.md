@@ -1,7 +1,9 @@
+# Proyecto
 
+## Imagen no clicable
 
-<p style="pointer-events: none;">
+<div style="pointer-events: none;">
     <img src="https://github.com/NTO-H/profile/blob/main/FmZY.gif" alt="Imagen No Clicable">
-</p>
+</div>
 
 {  estatus: OK }
