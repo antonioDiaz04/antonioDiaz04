@@ -1,6 +1,5 @@
 ### Hi there 👋
- .📫 How to reach me: sowahkelvin640@gmail.com, [linkedin](https://www.linkedin.com/in/kelvin-sowah-174356211/), WhatsApp +233 (0) 201691439
-
+ .📫 How to reach me:
 <!--
 **ksowah/ksowah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 -
 -->
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=ksowah&column=8&theme=gruvbox&no-frame=true"/>
+<!--<img width=800 src="https://github-profile-trophy.vercel.app/?username=ksowah&column=8&theme=gruvbox&no-frame=true"/>-->
 
 
 
