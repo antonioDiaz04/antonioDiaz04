@@ -1,7 +1,7 @@
 ### Hi there 👋
  .📫 How to reach me:
 <!--
-**ksowah/ksowah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NTO-H/NTO-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -
 -->
 
-<!--<img width=800 src="https://github-profile-trophy.vercel.app/?username=ksowah&column=8&theme=gruvbox&no-frame=true"/>-->
+<!--<img width=800 src="https://github-profile-trophy.vercel.app/?username=NTO-H&column=8&theme=gruvbox&no-frame=true"/>-->
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksowah&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ksowah&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ksowah&theme=github_dark)
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=ksowah&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ksowah&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ksowah&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NTO-H&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NTO-H&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NTO-H&theme=github_dark)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=NTO-H&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NTO-H&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NTO-H&theme=github_dark)
