@@ -1,8 +1,8 @@
 ### Hi there 👋
  .📫 How to reach me:
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NTO-H&theme=solarized_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NTO-H&theme=solarized_dark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NTO-H&theme=blue-green)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NTO-H&theme=blue-green)
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=NTO-H&column=8&theme=gruvbox&no-frame=true"/>
 
