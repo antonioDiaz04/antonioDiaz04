@@ -8,8 +8,8 @@
 
 
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NTO-H&theme=blue_green)
 <a href="#-my-github-stats--"><img   width="50%" src="https://gh-readme-profile.vercel.app/api?username=NTO-H&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="NTO-H" /></a>
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NTO-H&theme=blue_green)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NTO-H&theme=midnight_purple)
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=NTO-H&column=8&theme=gruvbox&no-frame=true"/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NTO-H&theme=github_dark)
