@@ -1,4 +1,4 @@
-### <a href="https://angular.dev/" target="_blank"> Hi there <img align="left" alt="Angular" width="30px" style="padding:10px;" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" /></a>
+### Hi there  <img align="rigth" alt="" width="30px" style="padding:10px;" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" />
  
 
 
