@@ -1,0 +1,39 @@
+name: GitHub Language Stats
+
+on:
+  push:
+  schedule:
+    - cron: "0 0 * * 0"  # Ejecuta cada domingo
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LANGUAGE: true
+          SHOW_TOTAL_CODE_TIME: false
+          SHOW_TIMEZONE: false
+          SHOW_EDITORS: false
+          SHOW_OS: false
+          SHOW_PROJECTS: false
+          SHOW_LOC_CHART: false
+          SHOW_LINES_OF_CODE: true
+          SHOW_COMMIT: false
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_LANGUAGE_PER_REPO: true
+          COMMIT_MESSAGE: "Actualiza gráfico de lenguajes"
+
+      - name: Commit generated stats
+        run: |
+          git config --global user.name 'antonioDiaz04'
+          git config --global user.email 'antonio@example.com'
+          git add .
+          git commit -m "🟢 Actualiza gráfico de lenguajes"
+          git push
