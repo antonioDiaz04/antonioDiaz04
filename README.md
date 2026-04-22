@@ -4,18 +4,8 @@
   <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" alt="GIF Animado" />
 </p>
 
-<p align="center">
-  <em>"Le digo a mi mamá que arreglo computadoras. En realidad hago Web, Android y diseño UI/UX."</em>
-</p>
 
-<p align="center"><strong>Soy team modo oscuro en todo.</strong> Incluso en la vida.</p>
 
----
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=antonioDiaz04&theme=radical&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioDiaz04&layout=donut&theme=radical&hide_border=true&langs_count=6" alt="Top Lenguajes" />
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
